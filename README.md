@@ -6,8 +6,9 @@
 
 
 
-- 👩‍🎓 Formada em Relações Internacionais, cursando Ciências Sociais e me descobrindo e desenvolvendo na área de Tecnologia*! 👩‍💻
-- 📚 Aprendendo Python, Google Cloud, Bancos de Dados...
+- 👩‍🎓 Engenheira de Dados Jr. e me descobrindo e desenvolvendo cada vez mais na área de Tecnologia! 👩‍💻
+- 👩‍🎓 Formada em Relações Internacionais e cursando Ciências Sociais na Universidade de São Paulo! 👩‍💻
+- 📚  Python; SQL; Bancos de Dados SQL e NoSQL; Pandas; Apache Spark - Pyspark, SparkSQL; Apache Beam - Pipelines; Google Cloud...
 
 
 
