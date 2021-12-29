@@ -6,19 +6,18 @@
 
 - 👩‍🎓 Engenheira de Dados e me aprofundando cada vez mais na área de Tecnologia! 👩‍💻
 - 👩‍🎓 Formada em Relações Internacionais e cursando Ciências Sociais na Universidade de São Paulo 🤓
-- 📚  Python, SQL, 
--     Bancos de Dados SQL e NoSQL, 
--     Bibliotecas Pandas, Panderas e Pyspark, 
--     Apache Spark, SparkSQL, Apache Beam, 
--     Google Cloud, Big Data, Data Lake, Data Warehouse, 
--     Pipelines, Modelagem de Dados, Processos ETL...
+- 📙 Python, SQL, 
+- 📕 Bancos de Dados SQL e NoSQL, 
+- 📗 Bibliotecas Pandas, Panderas e Pyspark, 
+- 📘 Apache Spark, SparkSQL, Apache Beam, 
+- 📒 Google Cloud, Big Data, Data Lake, Data Warehouse, 
+- 📚 Pipelines, Modelagem de Dados, Processos ETL...
 
 <br><br>
       
 <div align="center">
   <a href="https://github.com/na-geciauskas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=na-geciauskas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=na-geciauskas&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <br>
 <br>
