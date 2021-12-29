@@ -24,16 +24,16 @@
   
 ##  
 <div style="display: inline_block"><br>
- <img align="center" alt="Bela-Python" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
- <img align="center" alt="Bela-Pandas" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
- <img align="center" alt="Bela-Sql" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
- <img align="center" alt="Bela-mongo" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
- <img align="center" alt="Bela-spark" height="80" width="80" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" />
- <img align="center" alt="Bela-Beam" height="60" width="60" src="https://www.vectorlogo.zone/logos/apache_beam/apache_beam-icon.svg" />
- <img align="center" alt="Bela-DataBricks" height="100" width="100" src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg" />
- <img align="center" alt="Bela-Docker" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
- <img align="center" alt="Bela-Kubernetes" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" /> 
- <img align="center" alt="Bela-cloud" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" />
+ <img align="center" alt="Bela-Python" height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+ <img align="center" alt="Bela-Pandas" height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+ <img align="center" alt="Bela-Sql" height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+ <img align="center" alt="Bela-mongo" height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+ <img align="center" alt="Bela-spark" height="75" width="75" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" />
+ <img align="center" alt="Bela-Beam" height="50" width="50" src="https://www.vectorlogo.zone/logos/apache_beam/apache_beam-icon.svg" />
+ <img align="center" alt="Bela-DataBricks" height="95" width="95" src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg" />
+ <img align="center" alt="Bela-Docker" height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+ <img align="center" alt="Bela-Kubernetes" height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" /> 
+ <img align="center" alt="Bela-cloud" height="110" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" />
 </div>
   
 <!--
