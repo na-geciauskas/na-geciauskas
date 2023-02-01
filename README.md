@@ -1,17 +1,17 @@
-### Hello, world! Eu sou a Nara 🧑🏻
+### Hello, world! Nara here! 🧑🏻
 
 
-### Bem vindas e bem vindos!
+### Welcome, everyone!
 
 
-- 👩‍🎓 Engenheira de Dados e me aprofundando cada vez mais na área de Tecnologia! 👩‍💻
-- 👩‍🎓 Formada em Relações Internacionais e cursando Ciências Sociais na Universidade de São Paulo 🤓
-- 📙 Python, SQL, 
-- 📕 Bancos de Dados SQL e NoSQL, 
-- 📗 Bibliotecas Pandas, Panderas e Pyspark, 
+- 👩‍🎓 Analytics/Data Engineer with a passion for learning more and more all there is about Tech! 👩‍💻
+- 👩‍🎓 Bachelor in International Relations at Universidade de São Paulo 🤓
+- 📙 Scala, Spark/Scala, SQL, Python, [Clojure]... 
+- 📕 SQL e NoSQL DBs
+- 📗 Libs: Pandas, Panderas, Pyspark 
 - 📘 Apache Spark, SparkSQL, Apache Beam, 
-- 📒 Google Cloud, Big Data, Data Lake, Data Warehouse, 
-- 📚 Pipelines, Modelagem de Dados, Processos ETL...
+- 📒 Cloud Enthusiast - GCP, Databricks, Big Data, Data Warehousing..., 
+- 📚 Pipelines, Data Modeling, ETL Processes...
 
 <br><br>
       
