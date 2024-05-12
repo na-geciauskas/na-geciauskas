@@ -4,14 +4,16 @@
 ### Welcome, everyone!
 
 
-- 👩‍🎓 Analytics/Data Engineer with a passion for learning more and more all there is about Tech! 👩‍💻
+- 👩‍🎓 Analytics/Data Engineer with a passion for learning more and more about Tech! 👩‍💻
 - 👩‍🎓 Bachelor in International Relations at Universidade de São Paulo 🤓
-- 📙 Scala, Spark/Scala, SQL, Python, [Clojure]... 
+- 📙 Python, Pyspark, SQL, Scala, Spark/Scala... 
 - 📕 SQL e NoSQL DBs
 - 📗 Libs: Pandas, Panderas, Pyspark 
-- 📘 Apache Spark, SparkSQL, Apache Beam, 
-- 📒 Cloud Enthusiast - GCP, Databricks, Big Data, Data Warehousing..., 
-- 📚 Pipelines, Data Modeling, ETL Processes...
+- 📘 Apache Spark, SparkSQL, Apache Beam, Airflow
+- 📓 databricks, dbt, Google Collab
+- 📒 Postman, Airbyte, Jenkins, chatGPT 👀
+- 📔 Cloud Enthusiast - GCP, AWS, Big Data, Data Warehousing... 
+- 📚 Pipelines, Data Modeling, ETL/ELT Processes...
 
 <br><br>
       
